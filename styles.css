@@ -1,0 +1,133 @@
+#logos{
+  display:inline-block;
+ position: absolute;
+ top:20px;
+  left:1175px;
+  border:1px solid black
+ }
+ h5{
+  font-size:13px;
+  color:#777;
+  position: relative;
+  top: 15px;
+  left: 500px;
+}
+#logo{
+  position: relative;
+  left: 500px;
+}
+
+header{
+  position: relative;
+  border-bottom: 4px dashed;
+  top:25px;
+  
+}
+header h2{
+  position: absolute;
+  left:550px;
+  top:-10px;
+  
+  vertical-align: top;
+  font-size: 35px;
+  font-family: 'Pacifico', cursive;
+  display:inline-block;
+}
+header h6{
+  position: absolute; 
+  left:550px;
+  top:30px;
+  font-size: 15px;
+  display:inline-block;
+}
+h1{
+  font-size:50px;
+  position: relative;
+  top: 20px;
+  left: 500px;
+}
+#Print{
+  position: relative;
+  left: 1385px;
+}
+#ChocolatePizza{
+position: relative;
+top: 15px;
+left: 500px;
+}
+
+#instructions{
+position: relative;
+left: 500px;
+ width: 900px;
+}
+#paper{
+ position: relative;
+ font-size: 25px;
+ color:black;
+ line-height: 35px;
+ left: 500px;
+}
+#ing1{
+position:absolute;
+left:15px;
+top:15px;
+}
+#ing2{
+  position:absolute;
+  left:370px;
+  top:15px;
+}
+
+ #instructions p:last-child{
+   margin-bottom: 15px;
+ }
+ p {
+   padding-top:15px;
+ }
+ ul{
+   padding-left:50px;
+   list-style-type: square;
+ }
+ #vanessa{
+   height: 150px;
+   border-top:4px black dashed;
+   position: relative;
+   display: block;
+  }
+  #vanessa img:first-child{
+    position: relative;
+    left: 500px;
+  }
+ h3{
+   position: absolute;
+   left: 570px;
+   top: 5px;
+   font-size: 30px;
+ }
+ #vanessa p{
+   position: absolute;
+   width: 500px;
+   left: 575px;
+   top: 25px;
+ }
+ #vanessa button{
+   position: absolute;
+   left: 1250px;
+   top: 25px;
+   background-color: red;
+   color: white;
+   height: 40px;
+   width: 150px;
+ }
+ #vanessa img:last-child{
+   position: absolute; 
+   top: 130px;
+   left: 930px;
+ }
+ footer{
+   border-top: #888888 solid 1px;
+   display: block;
+   text-align: center;
+   color: #888888;
+ }
